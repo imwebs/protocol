@@ -1,0 +1,40 @@
+Please review Google Play Developer policy updates.
+
+View as webpage
+
+Google Play
+DEVELOPER UPDATE
+Hello Google Play Developer,
+We regularly update our policies as part of our commitment to making Google Play the safest and most trusted experience possible. You can find the details of the latest changes to our policies, including deadlines and additional resources, in our Policy Center.
+You’ll have at least 30 days from the date of this notification to comply with the following policy changes:
+New and updated policies
+To help ensure generative AI apps are safe for users, we’re reminding developers that all genAI apps must comply with our policies. We’re also requiring that certain genAI apps have user reporting or flagging features.
+For a more privacy preserving experience for users, we’re introducing the Photo and Video Permissions policy to reduce the number of apps permitted to request broad photo/video permissions (READ_MEDIA_IMAGES and READ_MEDIA_VIDEO). Apps may only access photos and videos for purposes directly related to app functionality. Apps that have a one-time or infrequent need to access these files are requested to use a system picker, such as the Android photo picker.
+To give users a better experience, we’re introducing new limitations for using the USE_FULL_SCREEN_INTENT permission. For apps targeting Android U (API level 34) and above, we’re changing this permission to a special app access permission. Only apps whose core functionality requires a full screen notification will be granted this permission by default. All other apps will need to request permission from the user.
+We’re adding a new Health apps policy under “Health Content and Services” to introduce new requirements for apps that fall under the Health apps categories. We’re also updating the policy to reflect current public health guidance.
+We’re updating our Personal Loans policy to state that we’re expanding the documents we will accept as proof that personal loan apps in Thailand are operating in accordance with local regulations.
+To provide a safer and more predictable experience for child users, we are updating our Google Play Families Ads and Monetization policy to disallow ads practices that are not clearly identifiable as advertising by child users. App developers and SDK providers will need to ensure that their ads are not presented as offerwalls and that their ad closing functionality does not immediately trigger a new ad.
+We’re clarifying our User Generated Content policy to explain how different UGC experiences may require different in-app moderation efforts.
+Additionally, we’ve added clarifications to some of our existing policies. Because these changes aren’t new or updated, our enforcement standards and practices remain the same.
+We are clarifying the Deceptive Behavior policy to include additional examples of misleading claims.
+We’re updating the examples in our Sensitive Events policy.
+We’re clarifying our Financial Services policy to emphasize personal loan apps may not access sensitive permissions and must comply with our Permissions policy.
+Reminders
+By November 1, 2023, all updates to existing apps must use Play Billing Library version 5 or newer. Learn more
+As of August 31, 2023, new apps and app update submissions must target API level 33 (Wear OS must target API 30). Existing apps must target API level 31 or newer to remain available to new users on devices running Android OS higher than your app's target API level. To save time and effort, you can use the new SDK Upgrade Assistant in Android studio. You will also be able to request an extension until November 1, 2023 if you need more time to update your app. Learn more
+The declaration form for apps that target Android 14 and above to declare foreground services (FGS) for appropriate use cases will be available by November. You’ll have until January 31, 2024 to receive feedback and make adjustments. Learn more
+We introduced a new account deletion requirement earlier this year to give users more control over their data. This means that all developers must update their Data safety form in Play Console, where some information may be displayed on your app’s Data safety section on Google Play. You have until December 7, 2023 to comply with this policy. If you need more time, you can request an extension until May 31, 2024 on Play Console. Learn more and watch our RePlay video.
+The financial features declaration form is now available in Play Console. You have until January 15, 2024 to complete this declaration. Learn more
+Please review these policy updates carefully in case any of your apps are impacted. To learn more about how to comply with these changes:
+Learn how we’re   supporting app quality on Google Play.
+Watch this PolicyBytes video.
+Register for a policy webinar, available for multiple regions (EMEA, Brazil, India, Greater China, Japan, Korea, South East Asia/Australia/New Zealand, or Indonesia). Send in your questions in advance.
+Ask questions or share best practices with fellow developers in the Google Play Developer Help Community.
+REVIEW UPDATES
+Thank you,
+Your Google Play team
+Connect with us
+Help Play Icon Play Academy
+
+© 2023 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+You have received this mandatory email service announcement to update you about important changes to your Google Play Developer account.
